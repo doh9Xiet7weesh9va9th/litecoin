@@ -1,3 +1,5 @@
+# This project was moved to https://github.com/getlynx/Lynx
+
 # [Lynx](https://getlynx.io) Cryptocurrency Core
 
 ## What is Lynx?
